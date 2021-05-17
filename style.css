@@ -1,0 +1,25 @@
+* {font-family:'Courier New', Courier, monospace}
+h1 {
+    color:blue;
+    text-align:center;
+    text-transform : uppercase;
+    font-weight: bolder;
+    font-size : 30px;
+    font-family:'Courier New', Courier, monospace;
+}
+h2{
+    color: orangered;
+    text-align:left;
+    text-transform:lowercase;
+    font-weight:bolder;
+    font-size : 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+p{
+    color:blueviolet;
+}
+
+.spécial{
+    color: brown;
+    font-weight: bolder;
+}
